@@ -12,6 +12,10 @@ O código manipula um array de números usando uma sequência de métodos JavaSc
 4. **`reduce()`**: Reduz o array a um único valor ou estrutura usando uma função acumuladora.
 5. **Operador `spread`**: Expande os elementos de um array para criar um novo array.
 
+**## Tecnologias Utilizadas**
+HTML
+JavaScript
+
 ## Como Usar
 
 1. Clone este repositório para a sua máquina local:
@@ -77,17 +81,19 @@ Filtragem de elementos com filter()
 Redução de arrays a um único valor ou estrutura com reduce()
 Combinação de arrays usando o operador spread
 
-**## Tecnologias Utilizadas**
-HTML
-JavaScript
 
-**##Contribuição**
-Contribuições são bem-vindas! Para contribuir, siga estas diretrizes:
 
-Adicione testes para novos recursos ou correções de bugs.
-Garanta que o código esteja bem documentado.
-Faça commits com mensagens claras e descritivas.
-Sinta-se à vontade para abrir issues ou enviar pull requests para melhorias ou correções.
+**Colaboradores**
+     <table>
+  <tr>
+    <td align="center"><a href="https://github.com/KauaAlencar"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/172075258?v=4" width="100px;" alt=""/><br /><sub><b>Kauã Alencar</b></sub></a><br /><a href="(https://www.linkedin.com/in/kau%C3%A3-alencar-b15119215/)" title="Linkedin">🚀</a></td>
+   <td align="center"><a href="https://github.com/GuilhermeShinohara"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/180458966?v=4" width="100px;" alt=""/><br /><sub><b>Guilherme Shinohara</b></sub></a><br /><a href="https://github.com/GuilhermeShinohara" title="Linkedin">🚀</a></td>
+   <td align="center"><a href="https://github.com/LeoFavaron"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/179886009?v=4" width="100px;" alt=""/><br /><sub><b>Leonardo Favaron</b></sub></a><br /><a href="https://github.com/LeoFavaron" title="Linkedin">🚀</a></td>
+   <td align="center"><a href="https://github.com/lucas-ricci-pathbit"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/174811028?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Ricci</b></sub></a><br /><a href="https://github.com/lucas-ricci-pathbit" title="Linkedin">🚀</a></td>
+    
+  </tr>
+</table>
+
 
 **Licença**
 Este projeto está licenciado sob a MIT License.
