@@ -52,24 +52,21 @@ O arquivo `index.html` contém o seguinte código:
     <p>Abra o console do navegador para ver o resultado.</p>
 
     <script>
-        // Array inicial de números
         const numbers = [10, 3, 7, 1, 9, 2, 8, 6, 4, 5];
 
-        // Usando todos os métodos em uma sequência
         const result = [...numbers]
-            .sort((a, b) => a - b)  // 1. sort() - Ordenando os números em ordem crescente
-            .map(num => num * num)  // 2. map() - Criando um novo array com cada número ao quadrado
-            .filter(num => num > 20)  // 3. filter() - Filtrando os números que são maiores que 20
-            .reduce((acc, num) => {  // 4. reduce() - Adicionando números ao acumulador
+            .sort((a, b) => a - b)  
+            .map(num => num * num)  
+            .filter(num => num > 20) 
+            .reduce((acc, num) => {  
                 acc.push(num);
                 return acc;
             }, []); 
 
-        console.log('Resultado Final:', result); // [25, 36, 49, 64, 81, 100]
+        console.log('Resultado Final:', result); 
 
-        // 5. spread - Usando o operador spread para combinar o array original e o array resultante
         const combinedArrays = [...numbers, ...result];
-        console.log('Combined Arrays:', combinedArrays); // [10, 3, 7, 1, 9, 2, 8, 6, 4, 5, 25, 36, 49, 64, 81, 100];
+        console.log('Combined Arrays:', combinedArrays); 
     </script>
 </body>
 </html>
