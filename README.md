@@ -17,7 +17,7 @@ O código manipula um array de números usando uma sequência de métodos JavaSc
 1. Clone este repositório para a sua máquina local:
 
     ```bash
-    git clone https://github.com/guilhermeshinohara/POC-2-Arrays-JS.git
+    git clone https://github.com/KauaAlencar/POC-2-Arrays-JS.git
     ```
 
 2. Navegue até o diretório do projeto:
