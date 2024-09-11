@@ -1,37 +1,40 @@
-Manipulação de Arrays em JavaScript
+# Manipulação de Arrays em JavaScript
 
-Este projeto demonstra o uso de métodos avançados de manipulação de arrays em JavaScript. Utilizando um exemplo prático, o código integra os métodos sort, map, reduce, filter e o operador spread para realizar operações comuns com arrays.
+Este projeto demonstra o uso de métodos avançados de manipulação de arrays em JavaScript. O código integra os métodos `sort`, `map`, `reduce`, `filter` e o operador `spread` para realizar operações comuns com arrays.
 
-Descrição
+## Descrição
+
 O código manipula um array de números usando uma sequência de métodos JavaScript para demonstrar como cada um deles funciona:
 
-sort(): Ordena os elementos do array.
-map(): Cria um novo array com os resultados da função fornecida aplicada a cada elemento.
-filter(): Filtra elementos de um array com base em um teste fornecido.
-reduce(): Reduz o array a um único valor usando uma função acumuladora.
-Operador spread: Expande os elementos de um array em outro.
-Como Usar
-Para utilizar o código:
+1. **`sort()`**: Ordena os elementos do array em ordem crescente.
+2. **`map()`**: Cria um novo array com os resultados da função fornecida aplicada a cada elemento do array original.
+3. **`filter()`**: Cria um novo array com todos os elementos que passam em um teste fornecido.
+4. **`reduce()`**: Reduz o array a um único valor ou estrutura usando uma função acumuladora.
+5. **Operador `spread`**: Expande os elementos de um array para criar um novo array.
 
-Clone este repositório para a máquina local:
+## Como Usar
 
-bash
-Copiar código
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-Navegue até o diretório do projeto:
+1. Clone este repositório para a sua máquina local:
 
-bash
-Copiar código
-cd nome-do-repositorio
-Abra o arquivo index.html em qualquer navegador de internet.
+    ```bash
+    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    ```
 
-Abra o console do navegador (pressionando F12 ou clicando com o botão direito e selecionando "Inspecionar" -> "Console") para visualizar os resultados.
+2. Navegue até o diretório do projeto:
 
-Código HTML
-O arquivo index.html contém o seguinte código:
+    ```bash
+    cd nome-do-repositorio
+    ```
 
-html
-Copiar código
+3. Abra o arquivo `index.html` em qualquer navegador de internet.
+
+4. Abra o console do navegador (pressionando `F12` ou clicando com o botão direito e selecionando "Inspecionar" -> "Console") para visualizar os resultados.
+
+## Código HTML
+
+O arquivo `index.html` contém o seguinte código:
+
+```html
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -66,21 +69,25 @@ Copiar código
     </script>
 </body>
 </html>
-Conceitos Demonstrados
+**## Conceitos Demonstrados**
+
 Ordenação de arrays com sort()
 Transformação de arrays com map()
 Filtragem de elementos com filter()
 Redução de arrays a um único valor ou estrutura com reduce()
 Combinação de arrays usando o operador spread
-Tecnologias Utilizadas
+
+**## Tecnologias Utilizadas**
 HTML
 JavaScript
-Contribuição
-Contribuições são bem-vindas. É possível abrir issues ou enviar pull requests para melhorias ou correções. Para contribuir, recomenda-se seguir estas diretrizes:
 
-Adicionar testes para novos recursos ou correções de bugs.
-Garantir que o código esteja bem documentado.
-Fazer commits com mensagens claras e descritivas.
-Licença
+**##Contribuição**
+Contribuições são bem-vindas! Para contribuir, siga estas diretrizes:
+
+Adicione testes para novos recursos ou correções de bugs.
+Garanta que o código esteja bem documentado.
+Faça commits com mensagens claras e descritivas.
+Sinta-se à vontade para abrir issues ou enviar pull requests para melhorias ou correções.
+
+**Licença**
 Este projeto está licenciado sob a MIT License.
-
