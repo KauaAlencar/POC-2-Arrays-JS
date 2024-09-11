@@ -74,7 +74,7 @@ O arquivo `index.html` contém o seguinte código:
 </body>
 </html>
 ```
-**## Conceitos Demonstrados**
+**Conceitos Demonstrados**
 
 Ordenação de arrays com sort()
 Transformação de arrays com map()
