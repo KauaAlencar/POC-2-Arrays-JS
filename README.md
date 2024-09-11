@@ -17,13 +17,13 @@ O código manipula um array de números usando uma sequência de métodos JavaSc
 1. Clone este repositório para a sua máquina local:
 
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/guilhermeshinohara/POC-2-Arrays-JS.git
     ```
 
 2. Navegue até o diretório do projeto:
 
     ```bash
-    cd nome-do-repositorio
+    cd POC-2-Arrays-JS
     ```
 
 3. Abra o arquivo `index.html` em qualquer navegador de internet.
