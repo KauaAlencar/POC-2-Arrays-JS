@@ -73,6 +73,7 @@ O arquivo `index.html` contém o seguinte código:
     </script>
 </body>
 </html>
+```html
 **## Conceitos Demonstrados**
 
 Ordenação de arrays com sort()
