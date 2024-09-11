@@ -1,4 +1,4 @@
-# Manipulação de Arrays em JavaScript
+8# Manipulação de Arrays em JavaScript
 
 Este projeto ilustra o uso de métodos avançados para manipulação de arrays em JavaScript. Usando um exemplo prático, o código demonstra a aplicação dos métodos `sort`, `map`, `filter`, `reduce` e o operador spread para realizar operações comuns com arrays.
 
