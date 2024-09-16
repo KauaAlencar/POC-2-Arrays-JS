@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manipulação de Arrays em JavaScript</title>
+</head>
+<body>
+    <h1>Manipulação de Arrays em JavaScript</h1>
+    <p>Abra o console do navegador para ver o resultado.</p>
+
+    <script>
+        const numbers = [10, 3, 7, 1, 9, 2, 8, 6, 4, 5];
+
+      
+        const result = [...numbers]
+            .sort((a, b) => a - b)
+            .map(num => num * num)
+            .filter(num => num > 20) 
+            .reduce((acc, num) => { 
+                acc.push(num);
+                return acc;
+            }, []); 
+
+        console.log('Resultado Final:', result);
+
+      
+        const combinedArrays = [...numbers, ...result];
+        console.log('Combined Arrays:', combinedArrays);
+    </script>
+</body>
+</html>
