@@ -93,4 +93,4 @@ O código JavaScript utiliza os seguintes métodos para manipulação de arrays:
 
 ### **📝 Licença**
 
-Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](./LICENSE) para mais informações.
+Este projeto está sob a licença MIT. 
