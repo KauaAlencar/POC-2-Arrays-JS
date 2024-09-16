@@ -96,9 +96,10 @@ O código JavaScript utiliza os seguintes métodos para manipulação de arrays:
 Este projeto está sob a licença MIT. 
 | Propriedade | Descrição |
 | --- | --- |
-| **justify-content** | Alinha os itens ao longo do eixo principal (normalmente horizontal). |
-| **align-items** | Alinha os itens ao longo do eixo transversal (geralmente vertical). |
-| **align-self** | Alinha um item específico de forma diferente dos outros itens no container. |
-| **flex-direction** | Define a direção do eixo principal, determinando como os itens são organizados dentro do container. |
+| **sort()**: | Ordena os elementos do array de acordo com a função de comparação fornecida. |
+| **map()**: | Aplica uma função a cada elemento do array, criando um novo array com os resultados. |
+| **filter()**: | Filtra os elementos do array com base em uma condição, retornando um novo array contendo apenas os elementos que passaram no teste. |
+| **reduce()**: | Acumula os valores do array em um único resultado, conforme uma função de acumulação especificada.
+ |
 | **order** | Controla a ordem dos itens no container, permitindo reordenar os itens visualmente. |
 | **flex-wrap** | Decide se os itens devem quebrar para a próxima linha quando não há espaço suficiente, ou se devem permanecer em uma única linha. |
