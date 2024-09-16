@@ -21,7 +21,7 @@ $ git clone <https://github.com/KauaAlencar/POC-2-Arrays-JS>
 # Acesse a pasta do projeto no terminal/cmd
 $ cd POC-2-Arrays-JS
 
-# Abra o arquivo code no seu navegador
+# Abra o arquivo index.html no seu navegador
 # ou utilize uma extensão como Live Server no VSCode para rodar a aplicação.
 ```
 
