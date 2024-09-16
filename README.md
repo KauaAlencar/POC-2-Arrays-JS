@@ -34,10 +34,12 @@ O projeto é composto por uma única página HTML (`index.html`) que contém um 
 
 O código JavaScript utiliza os seguintes métodos para manipulação de arrays:
 
-- **sort()**: Ordena os elementos do array de acordo com a função de comparação fornecida.
-- **map()**: Aplica uma função a cada elemento do array, criando um novo array com os resultados.
-- **filter()**: Filtra os elementos do array com base em uma condição, retornando um novo array contendo apenas os elementos que passaram no teste.
-- **reduce()**: Acumula os valores do array em um único resultado, conforme uma função de acumulação especificada.
+| Método | Descrição |
+| --- | --- |
+| **sort()** | Ordena os elementos do array de acordo com a função de comparação fornecida. |
+| **map()** | Aplica uma função a cada elemento do array, criando um novo array com os resultados. |
+| **filter()** | Filtra os elementos do array com base em uma condição, retornando um novo array contendo apenas os elementos que passaram no teste. |
+| **reduce()** | Acumula os valores do array em um único resultado, conforme uma função de acumulação especificada.
 
 ### **Descrição das Operações**
 
@@ -94,12 +96,3 @@ O código JavaScript utiliza os seguintes métodos para manipulação de arrays:
 ### **📝 Licença**
 
 Este projeto está sob a licença MIT. 
-| Método | Descrição |
-| --- | --- |
-| **sort()** | Ordena os elementos do array de acordo com a função de comparação fornecida. |
-| **map()** | Aplica uma função a cada elemento do array, criando um novo array com os resultados. |
-| **filter()** | Filtra os elementos do array com base em uma condição, retornando um novo array contendo apenas os elementos que passaram no teste. |
-| **reduce()** | Acumula os valores do array em um único resultado, conforme uma função de acumulação especificada.
- |
-| **order** | Controla a ordem dos itens no container, permitindo reordenar os itens visualmente. |
-| **flex-wrap** | Decide se os itens devem quebrar para a próxima linha quando não há espaço suficiente, ou se devem permanecer em uma única linha. |
